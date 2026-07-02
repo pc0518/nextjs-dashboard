@@ -1,5 +1,5 @@
 import { clsx } from 'clsx';
-import Link from 'next/link';
+import Link from '@/app/ui/link';
 import { lusitana } from '@/app/ui/fonts';
 
 interface Breadcrumb {

@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from '@/app/ui/link';
 import { FaceFrownIcon } from '@heroicons/react/24/outline';
  
 export default function NotFound() {
